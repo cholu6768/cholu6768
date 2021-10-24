@@ -1,6 +1,6 @@
 ### Hi there i'm Fernando 👋 Welcome to my profile! 
 
-I am a recent Industrial Engineering graduate looking for opportunities as a junior data analyst. I'm also a data analyst volunteer at TechLabs which is a non-profit that offers web dev, data science, UX/UI and deep learning bootcamps. 
+I am a recent Industrial Engineering graduate looking for opportunities as a junior data analyst. Currently i'm a data analyst volunteer at TechLabs which is a non-profit that offers web dev, data science, UX/UI and deep learning bootcamps. 
 
 - 🔭 I’m currently working on projects for my portfolio
 - 🌱 I’m currently learning SQL
