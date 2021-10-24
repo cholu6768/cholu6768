@@ -2,6 +2,8 @@
 
 I am a recent Industrial Engineering graduate looking for opportunities as a junior data analyst. Currently, i'm a data analyst volunteer at TechLabs which is a non-profit that offers free web dev, data science, UX/UI, and deep learning boot camps. 
 
+My interest in data analysis began back in the summer of 2019 when I took a Six Sigma Green Belt course. 6 months after that, I started learning Python and then I realized the real potential of using data. Since then I've been continuously learning. I've participated in a data analysis contest which made me learn a bit of Tableau, took all kinds of programming and data analysis courses that made my critical thinking better, and wrote a thesis about detecting Fake News with Machine Learning. Right now I'm focusing on learning SQL and making projects for my portfolio.
+
 - 🔭 I’m currently working on projects for my portfolio
 - 🌱 I’m currently learning SQL
 - 👯 I’m looking to collaborate on projects
