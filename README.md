@@ -1,3 +1,5 @@
+![name-banner](https://user-images.githubusercontent.com/48636616/139150522-c7d4cd9a-e68a-4f17-9454-f445cb4fe067.png)
+
 ### Hi there i'm Fernando 👋 Welcome to my profile! 
 
 I am a recent Industrial Engineering graduate looking for opportunities as a junior data analyst. Currently, i'm a data analyst volunteer at TechLabs which is a non-profit that offers free web dev, data science, UX/UI, and deep learning boot camps. 
