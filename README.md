@@ -2,11 +2,13 @@
 
 ### Hi there i'm Fernando 👋 Welcome to my profile! 
 
-I am a recent Industrial Engineering graduate looking for opportunities as a junior data analyst. Currently, i'm a data analyst volunteer at TechLabs which is a non-profit that offers free web dev, data science, UX/UI, and deep learning boot camps. 
+I am a recent Industrial Engineering graduate looking for opportunities as a junior data analyst. I volunteer at TechLabs as a data analyst, analyzing and visualizing data from bootcamp participants. My analysis is used to showcase our team's progress to the board, or to help the marketing team recognize what they should focus on.
 
-My interest in data analysis began back in the summer of 2019 when I took a Six Sigma Green Belt course. 6 months after that, I started learning Python and then I realized the real potential of using data. Since then I've been continuously learning. I've participated in a data analysis contest which made me learn a bit of Tableau, took all kinds of programming and data analysis courses that made my critical thinking better, and wrote a thesis about detecting Fake News with Machine Learning. 
+I developed my interest in data analysis back in the summer of 2019. I was obtaining my Six Sigma Green Belt and saw the importance of data in problem-solving. 6 months after that, I started learning Python and tried out some exercises from a book I was reading (Mining Social Media). That's when I became fascinated by the powerful potential that lies in data. Since then I've been continuously learning. I enhanced my knowledge and critical thinking skills through courses and boot camps in Python, data analysis and visualization, SQL and Git. I've also participated in a data analysis contest and learned how to use Tableau. 
 
-Right now I'm learning data engineering to get know the whole data process.
+Additionally, I also wrote my bachelor's thesis about machine learning: "Detecting fake news in diverse news topics using Machine Learning (Traditional machine learning models and ensemble models)". 
+
+Right now I'm learning data engineering to gain more knowledge about the whole data process.
 
 - 🔭 I’m currently learning Data Engineering 
 - 👯 I’m looking to collaborate on projects
