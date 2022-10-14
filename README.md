@@ -2,7 +2,7 @@
 
 ### Hi there i'm Fernando 👋 Welcome to my profile! 
 
-Currently working as a junior data analyst in the automotive replacement parts and accessories industry. 
+Currently working as a customer data analyst in the automotive replacement parts and accessories industry. 
 
 I volunteered at TechLabs as a data analyst, supporting the marketing team with the development of Social Media KPI Dashboards to help the marketing team in what they should focus on.
 
