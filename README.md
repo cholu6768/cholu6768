@@ -2,15 +2,15 @@
 
 ### Hi there i'm Fernando 👋 Welcome to my profile! 
 
-I am a recent Industrial Engineering graduate looking for opportunities as a junior data analyst. I volunteer at TechLabs as a data analyst, analyzing and visualizing data from bootcamp participants. My analysis is used to showcase our team's progress to the board, or to help the marketing team recognize what they should focus on.
+Currently working as a junior data analyst in the automotive replacement parts and accessories industry. 
+
+I volunteered at TechLabs as a data analyst, supporting the marketing team with the development of Social Media KPI Dashboards to help the marketing team in what they should focus on.
 
 I developed my interest in data analysis back in the summer of 2019. I was obtaining my Six Sigma Green Belt and saw the importance of data in problem-solving. 6 months after that, I started learning Python and tried out some exercises from a book I was reading (Mining Social Media). That's when I became fascinated by the powerful potential that lies in data. Since then I've been continuously learning. I enhanced my knowledge and critical thinking skills through courses and boot camps in Python, data analysis and visualization, SQL and Git. I've also participated in a data analysis contest and learned how to use Tableau. 
 
 Additionally, I also wrote my bachelor's thesis about machine learning: "Detecting fake news in diverse news topics using Machine Learning (Traditional machine learning models and ensemble models)". 
 
-Right now I'm learning data engineering to gain more knowledge about the whole data process.
-
-- 🔭 I’m currently learning Data Engineering 
+- 🔭 I’m currently learning R and its most used libraries for data science 
 - 👯 I’m looking to collaborate on projects
 - 💬 Ask me about tech and programming
 - 📫 How to reach me: https://www.linkedin.com/in/fernando-chavez-osuna-1a420a181/
